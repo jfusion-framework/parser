@@ -15,5 +15,5 @@
             "JFusion\\Parser\\": "src/"
         }
     },
-    "minimum-stability" : "beta"
+    "minimum-stability" : "dev"
 }
