@@ -7,13 +7,11 @@
     "license": "GPL-2.0+",
     "require": {
         "php": ">=5.3.10",
-        "jfusion/core": ">=0.1",
-        "joomla/event": "~1.0"
+        "jfusion/core": "~1.0"
     },
     "autoload": {
         "psr-4": {
             "JFusion\\Parser\\": "src/"
         }
-    },
-    "minimum-stability" : "dev"
+    }
 }
